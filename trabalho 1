@@ -1,0 +1,52 @@
+IBMEC - RJ
+GRADUAÇÃO - DIREITO 
+PROJETO INTEGRADOR: PROGRAMAÇÃO APLICADA AO DIREITO 
+ALUNA: MARIANA SIQUEIRA DINIZ NAGEM 
+PROFESSOR: EDUARDO BRITO 
+
+
+TRABALHO 1
+
+1. Definição do termo ARQUIVO 
+  Um arquivo é um conjunto de dados que se relacionam de alguma forma, ou seja, 
+juntos descrevem uma informação ou conjunto de informações. Em função da natureza
+dos computadores, os arquivos são sempre formados por dados digitais, organizados 
+seguindo alugum tipo de estrutura (ou formato). Em resumo, o arquivo é um elemento 
+de informação armazenado na memória (disco) do computador. 
+
+1.1. ARQUIVO DE TEXTO
+  Um arquivo de texto é um tipo de arquivo digital não executável que contém letras,
+números, síbolos e/ou uma combinação deles, o qual permite a criação e o armazenamento 
+de texto sem formatação especial. 
+
+2. VARIÁVEL 
+  Uma variável representa um contêiner ou o espaço na memória física ou virtual de um 
+computador, onde diferentes tipos de dados (valores) são armazenados durante a 
+execução de um programa. A cada variável é atribuído um nome descritivo ou identificador
+que se refere ao valor salvo. Os dados armazenados podem mudar de valor ou serem constantes. 
+
+  As variáveis são usadas para salvar e recuperar dados, representar valores existentes e 
+atribuir novos. Elas permitem que os programadores se refiram a um valor com um nome representativo 
+em vez de ter que se lembrar desse valor, o que facilita muitas tarefas complexas. 
+
+3. SERVIDOR 
+  Servidores são computadores ou sistemas computacionais que atendem as requisições de dispositivos 
+dos clientes, através de uma ou mais redes (locais ou remotas), capazes de executar aplicações 
+(programas), prover processamento e/ou capacidade de armazenamento de dados. 
+
+  Como definição rudimentar, podemos considerar um servidor como qualquer solução tecnológica 
+com capacidade para executar programas de forma centralizada, além de armazenar e compartilhar arquivos,
+administrar filas de impressão e prestar algum tipo de serviço para vários computadores, através de 
+uma rede local ou remota. 
+
+4. CONTA E REPOSITÓRIO NO GITHUB 
+   Link: https://github.com/marisiqueira09/Mariana/new/main
+
+
+REFERÊNCIAS BIBLIOGRÁFICAS 
+
+https://bruno.dac.ufla.br/aulas/arquivos-e-diretorios.html
+https://ebaconline.com.br/blog/variaveis-na-programacao-seo
+https://coodesh.com/blog/dicionario/o-que-e-um-servidor/
+
+https://www.cin.ufpe.br/~luciano/cursos/ce/arquivos.pdf
